@@ -1,6 +1,12 @@
 # 🎥 Video Mirror
 
-A lightweight browser extension that mirrors videos horizontally with one click.
+> A simple and elegant browser extension for horizontal video mirroring.
+
+Video Mirror allows you to mirror videos horizontally with a single click or keyboard shortcut.
+
+Perfect for watching videos when you need a mirrored image — without changing the original video or downloading anything.
+
+---
 
 ## ✨ Features
 
@@ -9,35 +15,172 @@ A lightweight browser extension that mirrors videos horizontally with one click.
 - 📺 VK Video support
 - ⚡ `Alt + M` keyboard shortcut
 - 💾 Mirror state persistence
-- 🎨 Premium dark UI
+- 🎨 Premium dark popup interface
 - 🧩 Manifest V3
 - 🌐 Works with Chromium-based browsers
+- 🚀 No external dependencies
+
+---
 
 ## 📸 Screenshots
 
-Coming soon.
+_Coming soon._
+
+---
 
 ## 📦 Installation
 
-### From source
+### Install from source
 
 1. Download or clone this repository.
 2. Open your browser's extensions page.
 3. Enable **Developer mode**.
 4. Click **Load unpacked**.
-5. Select the project folder.
+5. Select the `video-mirror` project folder.
 
-### Supported browsers
+The extension should appear in your browser's extensions list.
 
-- Google Chrome
-- Yandex Browser
-- Microsoft Edge
-- Other Chromium-based browsers
+---
 
 ## 🎮 Usage
 
-Open a page with a video and click the **Video Mirror** extension icon.
+Open a webpage containing a video.
 
-You can also use:
+Click the **Video Mirror** extension icon and press:
 
-Alt + M
+**🔄 Enable Mirroring**
+
+The video will immediately be mirrored horizontally.
+
+### ⌨️ Keyboard shortcut
+
+You can also toggle mirroring without opening the extension popup:
+
+`Alt + M`
+
+## 🛠️ Project structure
+
+video-mirror/
+│
+├── manifest.json
+├── background.js
+├── content.js
+│
+├── popup.html
+├── popup.js
+├── popup.css
+│
+├── icon.svg
+├── icon16.png
+├── icon32.png
+├── icon48.png
+└── icon128.png
+
+## 🔧 Development
+
+### The extension uses:
+
+- JavaScript
+- HTML
+- CSS
+- Chrome Extensions Manifest V3
+
+No external dependencies are required.
+
+## 📄 License
+
+MIT License
+
+# 🇷🇺 Русская версия
+
+# 🎥 Video Mirror
+
+Video Mirror — простое и красивое расширение для браузера, которое позволяет зеркально отражать видео по горизонтали.
+
+Зеркалирование включается одним нажатием или с помощью горячей клавиши.
+
+Расширение не изменяет исходный видеофайл и не требует его скачивания.
+
+## ✨ Возможности
+
+- 🔄 Горизонтальное зеркалирование видео
+- 🎬 Поддержка YouTube
+- 📺 Поддержка VK Видео
+- ⚡ Горячая клавиша `Alt + M`
+- 💾 Сохранение состояния зеркалирования
+- 🎨 Премиальный тёмный интерфейс
+- 🧩 Manifest V3
+- 🌐 Поддержка браузеров на Chromium
+- 🚀 Не требует внешних зависимостей
+
+## 📸 Снимки экрана
+
+Будет позже.
+
+## 📦 Установка
+
+### Установка из исходного кода
+
+1. Скачайте или клонируйте этот репозиторий.
+2. Откройте страницу расширений вашего браузера.
+3. Включите «Режим разработчика».
+4. Нажмите «Загрузить распакованное расширение».
+5. Выберите папку проекта.
+
+После этого расширение появится в списке установленных расширений.
+
+### Поддерживаемые браузеры
+
+- Google Chrome
+- Яндекс Браузер
+- Microsoft Edge
+- Другие Chromium-based браузеры 
+
+## 🎮 Использование
+
+Откройте страницу с видео.
+
+Нажмите на иконку расширения Video Mirror и выберите:
+
+🔄 Включить отзеркаливание
+
+Видео будет сразу отражено по горизонтали.
+
+⌨️ Горячая клавиша
+
+Для быстрого переключения можно использовать:
+
+`Alt + M`
+
+## 🛠️ Структура проекта
+
+video-mirror/
+│
+├── manifest.json
+├── background.js
+├── content.js
+│
+├── popup.html
+├── popup.js
+├── popup.css
+│
+├── icon.svg
+├── icon16.png
+├── icon32.png
+├── icon48.png
+└── icon128.png
+
+## 🔧 Технологии
+
+### Проект использует:
+
+- JavaScript
+- HTML
+- CSS
+- Chrome Extensions Manifest V3
+
+Внешние библиотеки и зависимости не используются.
+
+## 📄 License
+
+MIT License
