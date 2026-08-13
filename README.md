@@ -21,8 +21,9 @@ Perfect for watching videos when you need a mirrored image — without changing 
 
 ## 📸 Screenshots
 
-![Extension](screenshots/popup1.png)
-![Extension](screenshots/popup2.png)
+<p align="center">
+  <img src="screenshots/popup1.png" alt="Extension" width="300">
+</p>
 
 ## 📦 Installation
 
@@ -113,8 +114,9 @@ Video Mirror — простое и красивое расширение для 
 
 ## 📸 Снимки экрана
 
-![Окно расширения](screenshots/popup1.png)
-![Окно расширения](screenshots/popup2.png)
+<p align="center">
+  <img src="screenshots/popup1.png" alt="Окно расширения" width="300">
+</p>
 
 ## 📦 Установка
 
