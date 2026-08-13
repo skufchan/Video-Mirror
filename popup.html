@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Mirror</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+
+<div class="app">
+
+    <div class="header">
+        <div class="logo">
+            <div class="logo-icon">↔</div>
+        </div>
+
+        <div class="title-block">
+            <div class="title">Video Mirror</div>
+            <div class="subtitle">Отзеркаливание видео</div>
+        </div>
+    </div>
+
+    <div class="status-card">
+        <div class="status-dot" id="statusDot"></div>
+
+        <div class="status-text">
+            <span class="status-label">Статус</span>
+            <span class="status-value" id="statusText">Выключено</span>
+        </div>
+    </div>
+
+    <button id="mirrorButton" class="mirror-button">
+        <span class="button-icon">↔</span>
+        <span id="buttonText">Включить отзеркаливание</span>
+    </button>
+
+    <div class="footer">
+        <span>Video Mirror</span>
+        <span>v1.2</span>
+    </div>
+
+</div>
+
+<script src="popup.js"></script>
+
+</body>
+</html>
