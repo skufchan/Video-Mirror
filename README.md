@@ -36,7 +36,7 @@ _Coming soon._
 2. Open your browser's extensions page.
 3. Enable **Developer mode**.
 4. Click **Load unpacked**.
-5. Select the `video-mirror` project folder.
+5. Select the `Video-Mirror` project folder.
 
 The extension should appear in your browser's extensions list.
 
@@ -60,6 +60,7 @@ You can also toggle mirroring without opening the extension popup:
 
 ## 🛠️ Project structure
 
+```text
 video-mirror/
 │
 ├── manifest.json
@@ -75,6 +76,7 @@ video-mirror/
 ├── icon32.png
 ├── icon48.png
 └── icon128.png
+```
 
 ## 🔧 Development
 
@@ -154,6 +156,7 @@ Video Mirror — простое и красивое расширение для 
 
 ## 🛠️ Структура проекта
 
+```text
 video-mirror/
 │
 ├── manifest.json
@@ -169,6 +172,7 @@ video-mirror/
 ├── icon32.png
 ├── icon48.png
 └── icon128.png
+```
 
 ## 🔧 Технологии
 
