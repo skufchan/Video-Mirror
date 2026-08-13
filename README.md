@@ -21,7 +21,7 @@ Perfect for watching videos when you need a mirrored image — without changing 
 
 ## 📸 Screenshots
 
-![Extension](screenshots/popup.png)
+![Extension](screenshots/popup1.png)
 ![Extension](screenshots/popup2.png)
 
 ## 📦 Installation
