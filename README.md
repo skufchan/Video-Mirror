@@ -6,7 +6,6 @@ Video Mirror allows you to mirror videos horizontally with a single click or key
 
 Perfect for watching videos when you need a mirrored image — without changing the original video or downloading anything.
 
----
 
 ## ✨ Features
 
@@ -20,13 +19,10 @@ Perfect for watching videos when you need a mirrored image — without changing 
 - 🌐 Works with Chromium-based browsers
 - 🚀 No external dependencies
 
----
-
 ## 📸 Screenshots
 
-_Coming soon._
-
----
+![Extension](screenshots/popup.png)
+![Extension](screenshots/popup2.png)
 
 ## 📦 Installation
 
@@ -39,8 +35,6 @@ _Coming soon._
 5. Select the `Video-Mirror` project folder.
 
 The extension should appear in your browser's extensions list.
-
----
 
 ## 🎮 Usage
 
@@ -93,6 +87,8 @@ No external dependencies are required.
 
 MIT License
 
+---
+
 # 🇷🇺 Русская версия
 
 # 🎥 Video Mirror
@@ -117,7 +113,8 @@ Video Mirror — простое и красивое расширение для 
 
 ## 📸 Снимки экрана
 
-Будет позже.
+![Окно расширения](screenshots/popup1.png)
+![Окно расширения](screenshots/popup2.png)
 
 ## 📦 Установка
 
