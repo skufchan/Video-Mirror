@@ -52,6 +52,7 @@ The video will immediately be mirrored horizontally.
 You can also toggle mirroring without opening the extension popup:
 
 `Alt + M`
+> ⌨️ The `Alt + M` keyboard shortcut may need to be manually assigned in your browser's keyboard shortcut settings.
 
 ## 🛠️ Project structure
 
@@ -152,6 +153,7 @@ Video Mirror — простое и красивое расширение для 
 Для быстрого переключения можно использовать:
 
 `Alt + M`
+> ⌨️ Горячая клавиша `Alt + M` может потребовать ручного назначения в настройках сочетаний клавиш браузера.
 
 ## 🛠️ Структура проекта
 
@@ -184,6 +186,6 @@ video-mirror/
 
 Внешние библиотеки и зависимости не используются.
 
-## 📄 License
+## 📄 Лицензия
 
 MIT License
