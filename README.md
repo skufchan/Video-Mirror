@@ -27,7 +27,11 @@ Perfect for watching videos when you need a mirrored image — without changing 
 
 ## 📦 Installation
 
-### Install from source
+### Option 1. Install from Opera Addons
+
+- https://addons.opera.com/ru/extensions/details/video-mirror/
+
+### Option 2. Install from source
 
 1. Download or clone this repository.
 2. Open your browser's extensions page.
@@ -121,7 +125,11 @@ Video Mirror — простое и красивое расширение для 
 
 ## 📦 Установка
 
-### Установка из исходного кода
+### Вариант 1. Установка из Opera Addons
+
+- https://addons.opera.com/ru/extensions/details/video-mirror/
+
+### Вариант 2. Установка из исходного кода
 
 1. Скачайте или клонируйте этот репозиторий.
 2. Откройте страницу расширений вашего браузера.
